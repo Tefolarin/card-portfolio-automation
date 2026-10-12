@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# full generated datasets are large and reproducible via generate_raw_data.py
+# only a small sample is committed for preview
+data/raw_transactions.csv
+data/clean_transactions.csv
