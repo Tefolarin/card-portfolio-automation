@@ -63,7 +63,7 @@ python scripts/clean_and_forecast.py     # generates output/portfolio_executive_
 
 ## Notes on the Data
 
-All data in this repository is synthetically generated for demonstration purposes. Dollar figures, markets, and transaction patterns are illustrative and do not represent any real institution's financials. The full 60,000-row raw and cleaned datasets are reproducible by running the scripts; a 1,000-row sample (`data/sample_raw_transactions.csv`) is committed so the messiness is visible without running anything.
+All data in this repository is synthetically generated for demonstration purposes. Dollar figures, markets, and transaction patterns are illustrative and do not represent any real institution's financials. The full 60,000-row raw and cleaned datasets are reproducible by running the scripts; a 200-row sample (`data/sample_raw_transactions.csv`) is committed so the messiness is visible without running anything.
 
 ---
 Built by [Tosin Folarin](https://www.linkedin.com/in/folarintosin/) — strategy and product leader across payments, card products, and management consulting.
